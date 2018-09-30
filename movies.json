@@ -1,0 +1,37 @@
+{
+  "movies": [{
+    "title" : "The Hunger Games: Episode I, 2012",
+    "episode_number" : "1",
+    "main_characters" : ["Katniss Everdeen", "Peeta Mellark ", "Gale Hawthorne ", "Haymitch Abernathy", "Primrose (Prim) Everdeen", "President Coriolanus Snow "],
+    "description" : "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+    "poster" : "hunger_games_episode_one.jpg",
+    "hero_image" : "hero_image_one.jpg"
+  },
+
+    {
+      "title" : "The Hunger Games: Episode II - Catching Fire ",
+      "episode_number" : "2",
+      "main_characters" : ["Katniss Everdeen", "Peeta Mellark ", "Gale Hawthorne ", "Haymitch Abernathy", "Primrose (Prim) Everdeen", "President Coriolanus Snow", "Cinna"],
+      "description" : "Katniss plans to sacrifice her own life to save Peeta's. ... Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+      "poster" : "hunger_games_episode_two.jpg",
+      "hero_image" : "hero_image_two.jpg"
+    },
+
+    {
+      "title" : "The Hunger Games: Mockingjay - Part 1 (2014)",
+      "episode_number" : "3",
+      "main_characters" : ["Katniss Everdeen", "Peeta Mellark ", "Gale Hawthorne ", "Haymitch Abernathy", "Primrose (Prim) Everdeen", "President Coriolanus Snow "],
+      "description" : "In The Hunger Games: Mockingjay: Part 1, Katniss (Jennifer Lawrence) was taken to District 13, where the rebellion was being led, and reluctantly agreed to become its poster girl - as long as her fellow-tribute Peeta (Josh Hutcherson) was rescued.",
+      "poster" : "hunger_games_episode_three.jpg",
+      "hero_image" : "hero_image_three.jpg"
+    },
+
+    {
+      "title" : "The Hunger Games: Mockingjay – Part 2, Episode Four",
+      "episode_number" : "4",
+      "main_characters" : ["Katniss Everdeen", "Peeta Mellark ", "Gale Hawthorne ", "Haymitch Abernathy", "Primrose (Prim) Everdeen", "President Coriolanus Snow "],
+      "description" : "Hoffman died in February 2014, making Mockingjay – Part 2 his final film role. ... The story continues from The Hunger Games: Mockingjay – Part 1 with Katniss Everdeen (Jennifer Lawrence) preparing to win the war against President Snow (Donald Sutherland) and the tyrannical Capitol.",
+      "poster" : "hunger_games_episode_four.jpg",
+      "hero_image" : "hero_image_four.jpg"
+    }]
+}
